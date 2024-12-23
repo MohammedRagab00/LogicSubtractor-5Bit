@@ -38,7 +38,7 @@ This project implements a 5-bit binary subtractor using Logisim, a digital circu
 ```
 5bit-binary-subtractor/
 ├── README.md          # Project documentation
-├── PROJECT.circ    # Logisim circuit file
+├── PROJECT.circ       # Logisim circuit file
 ```
 
 ## Future Enhancements
