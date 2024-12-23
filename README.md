@@ -10,7 +10,7 @@ This project implements a 5-bit binary subtractor using Logisim, a digital circu
 - **Negative Sign Handling**: Displays a negative sign if the result of subtraction is negative.
 
 ## Requirements
-- [Logisim](https://github.com/logisim-evolution/logisim-evolution): Digital circuit simulation software.
+- [Logisim](https://sourceforge.net/projects/circuit/): Digital circuit simulation software.
 
 ## Circuit Design
 ### Components Used
